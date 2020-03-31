@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3d2669d72fb90ba4e979e08b57825520
+timeCreated: 1514640988
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Skia
+  fontNames:
+  - Skia
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
